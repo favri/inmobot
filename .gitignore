@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inmobot.iml
+.idea/modules.xml
+.idea/workspace.xml
+node_modules/
+package.json
