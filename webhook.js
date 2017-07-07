@@ -1,6 +1,4 @@
-/**
- * Created by cliengo on 04/07/17.
- */
+
 
 const express  = require ('express');
 const bodyParser = require('body-parser');
